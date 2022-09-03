@@ -1,4 +1,5 @@
-{
+[
+    {
     "pok_id": "1",
     "pok_name": "bulbasaur",
     "region": "kanto",
@@ -1507,4 +1508,4 @@
     "abilities3": "",
     "type1": "psychic",
     "type2": ""
-},
+}]
